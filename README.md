@@ -5,12 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-
- 🔭 I’m currently working on [ReCapProject](https://github.com/Cemcicek/ReCapProject)<br>
  🌱 I’m currently learning <b>C#</b><br>
+ 🔭 I’m currently working on [ReCapProject](https://github.com/Cemcicek/ReCapProject)<br>
  👨‍💻 All of my projects are available at [all repository.](https://github.com/Cemcicek?tab=repositories)<br>
- 📫 How to reach me cicekcem25@gmail.com<br>
  🔗 My LinkedIn account [LinkedIn](https://www.linkedin.com/in/cem-%C3%A7i%C3%A7ek-11a7a0197/)<br>
+ 📫 How to reach me cicekcem25@gmail.com<br>
  
  <!--
  👯 I’m looking to collaborate on ...
