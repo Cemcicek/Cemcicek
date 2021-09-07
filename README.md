@@ -13,7 +13,7 @@ Here are some ideas to get you started:
  
  🔗 My LinkedIn account [LinkedIn](https://www.linkedin.com/in/cem-%C3%A7i%C3%A7ek-11a7a0197/)
  
- 📫 How to reach me cicekcem25@gmail.com<br>
+ 📫 How to reach me cicekcem25@gmail.com<br><br>
  
  <!--
  👯 I’m looking to collaborate on ...
