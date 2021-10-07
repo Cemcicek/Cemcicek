@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Cemcicek&row=1)](https://github.com/Cemcicek)<br>
 
 ![Profile views](https://gpvc.arturio.dev/Cemcicek)
+![](https://komarev.com/ghpvc/?CemCicek=CemCicek&color=green)
 
 
 
