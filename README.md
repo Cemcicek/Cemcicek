@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
  🌱 I’m currently learning <b>C#</b>
  
- 🔭 I’m currently working on [ReCapProject](https://github.com/Cemcicek/ReCapProject)
+ <!-- 🔭 I’m currently working on [ReCapProject](https://github.com/Cemcicek/ReCapProject) -->
 
  👨‍💻 All of my projects are available at [all repository.](https://github.com/Cemcicek?tab=repositories)
  
