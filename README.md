@@ -36,7 +36,7 @@ Here are some ideas to get you started:
  <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cemcicek&theme=blue-green)](https://github.com/Cemcicek)<br> -->
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Cemcicek&row=1)](https://github.com/Cemcicek)<br>
 
-![Profile views](https://gpvc.arturio.dev/Cemcicek)<br>
+<!-- ![Profile views](https://gpvc.arturio.dev/Cemcicek)<br> -->
  <!-- ![Profile views](https://komarev.com/ghpvc/?username=CemCicek&color=dc143c) -->
 
 
