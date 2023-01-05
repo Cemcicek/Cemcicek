@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cemcicek&layout=compact)](https://github.com/Cemcicek) -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cemcicek&layout=compact)](https://github.com/Cemcicek)
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cemcicek&theme=blue-green)](https://github.com/Cemcicek)
+  <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cemcicek&theme=blue-green)](https://github.com/Cemcicek)-->
 
 
 
