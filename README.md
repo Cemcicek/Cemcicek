@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Cemcicek) <br><br>
 -->
 
-
- <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cemcicek&theme=blue-green)](https://github.com/Cemcicek)<br> -->
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Cemcicek&row=1)](https://github.com/Cemcicek)<br>
 
    ![Profile views](https://gpvc.arturio.dev/Cemcicek)<br> 
@@ -43,6 +41,7 @@ Here are some ideas to get you started:
 
  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cemcicek&layout=compact)](https://github.com/Cemcicek) -->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cemcicek&layout=compact)](https://github.com/Cemcicek)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cemcicek&theme=blue-green)](https://github.com/Cemcicek)
 
 
 
