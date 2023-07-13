@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Cemcicek&row=1)](https://github.com/Cemcicek)<br>
 
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=cemcicek&label=Profile%20views&color=0e75b6&style=flat" alt="cemcicek" /> </p><br>
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=cemcicek&label=Profile%20views&color=0e75b6&style=flat" alt="cemcicek" /> </p>
    <!-- ![Profile views](https://komarev.com/ghpvc/?username=CemCicek&color=brightgreen) -->
 
 
