@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Cem I'm a software developer from Turkey.<br>- 🌱 I’m currently learning **React**<br>- 📫 How to reach me **cicekcem25@gmail.com**<br>- 👨‍💻 All of my projects are available at [all repository.](https://github.com/Cemcicek?tab=repositories)
+Hi 👋, I'm Cem I'm a software developer from Turkey.<br>- 🌱 I’m currently learning **.**<br>- 📫 How to reach me **cicekcem25@gmail.com**<br>- 👨‍💻 All of my projects are available at [all repository.](https://github.com/Cemcicek?tab=repositories)
 
 
 ## 🌐 Socials:
